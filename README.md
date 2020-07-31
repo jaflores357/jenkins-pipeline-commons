@@ -13,10 +13,7 @@ Na aba Pipeline Libraries na configuração do Job do projeto no Jenkins, config
 
 ![](https://i.imgur.com/N9WlZuy.png)
 
-Apontar o repositório da lib no Bitbucket e escolher a credencial de acesso:
-
-![](https://i.imgur.com/AtJHRWG.png)
-
+Apontar o repositório da lib no github e escolher a credencial de acesso
 
 ### Jenkinsfile do projeto ###
 
